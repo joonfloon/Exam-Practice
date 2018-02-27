@@ -10,3 +10,7 @@ color:gray;
 margin-top: 10px;
 margin-bottom: 0px;}
 h1 {font-size: 35px;}
+  .container {margin: auto;
+  max-width: 900px}
+
+*{box-sizing: border-box;}
